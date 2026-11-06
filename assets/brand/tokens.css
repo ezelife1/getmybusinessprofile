@@ -1,0 +1,10 @@
+/* GetMyBusinessProfile brand tokens */
+:root {
+  --gmbp-ink:#171815;
+  --gmbp-charcoal:#22241F;
+  --gmbp-gold:#FFD443;
+  --gmbp-cream:#F8F6EE;
+  --gmbp-white:#FFFFFF;
+  --gmbp-muted:#54584F;
+  --gmbp-font:Inter, system-ui, sans-serif;
+}

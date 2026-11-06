@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://getmybusinessprofile.co.uk/sitemap.xml

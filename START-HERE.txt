@@ -1,0 +1,1 @@
+Double-click the top-level index.html after extracting the ZIP. Keep the extracted files and folders together. No local server is needed.
